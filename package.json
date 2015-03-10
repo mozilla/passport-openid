@@ -14,7 +14,7 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport": "~0.1.3",
-    "openid": "git://github.com/ozten/node-openid.git#v0.4.2-proxy"
+    "openid": "git://github.com/mozilla/node-openid.git#v0.4.2-proxy-926-hotfix"
   },
   "devDependencies": {
     "vows": "0.6.x"
